@@ -1,4 +1,4 @@
-# Programación, Inteligencia Artificial y Robobótica I
+# Programación, Inteligencia Artificial y Robótica I
 
 ## Tareas pendientes
 
